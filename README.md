@@ -1,16 +1,7 @@
 # crypto_app
 
-A new Flutter project.
+A crypto watcher that uses an API to get coin information (used Bloc for state management).
 
-## Getting Started
+## Screenshots
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![Screenshot_1660643956](https://user-images.githubusercontent.com/59797717/184853230-61d96e09-6698-43dd-b20b-558cd64f10da.png)
